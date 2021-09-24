@@ -1,4 +1,6 @@
 # Book group UI with HTML, CSS and JS.
+# code output
+![HTML](https://user-images.githubusercontent.com/90372523/134630660-8acf292f-00d6-4546-b0dc-4b09b5a2dd9e.gif)
 # Compatible browsers:
     Chrome, Edge, Firefox, Opera, Safari
 # HTML :    
